@@ -14,6 +14,6 @@
 
 
 ![paponni's github stats](https://github-readme-stats.vercel.app/api?username=paponni&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![paponni's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paponni&layout=compact&langs_count=8&hide_border=true)
+![paponni's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paponni&layout=compact&hide_border=true)
 <br />
 
