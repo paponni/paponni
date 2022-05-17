@@ -7,7 +7,7 @@ Software developper
 * 🌍  I'm based in Marrakech
 * 🖥️  See my portfolio at [echo $ME](http://paponni.github.io/syntaxx/)
 * ✉️  You can contact me at [mohamedmamoun@hotmail.fr](mailto:mohamedmamoun@hotmail.fr)
-* 🧠  I'm learning Next JS...
+* 🧠  I'm learning DevOps...
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
